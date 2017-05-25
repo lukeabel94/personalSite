@@ -1,0 +1,3 @@
+Images
+    size: 900 x 650
+    type: png
